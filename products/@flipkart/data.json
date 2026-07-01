@@ -1,0 +1,312 @@
+[
+  {
+    "modelImage": "./imgs/flipkart/p1/model.png",
+    "products": [
+      {
+        "name": "Top",
+        "price": "₹621",
+        "image": "./imgs/flipkart/p1/top1.png",
+        "link": "https://fktr.in/aHr1jz1"
+      },
+      {
+        "name": "Top2",
+        "price": "₹275",
+        "image": "./imgs/flipkart/p1/top2.png",
+        "link": "https://fktr.in/HvcuYnj"
+      },
+      {
+        "name": "Shorts",
+        "price": "₹404",
+        "image": "./imgs/flipkart/p1/shorts.png",
+        "link": "https://fktr.in/A511nDZ"
+      }
+    ],
+    "accessories": [
+      {
+        "name": "Necklace",
+        "price": "₹152",
+        "image": "./imgs/flipkart/p1/necklace.png",
+        "link": "https://fktr.in/9Nm8499"
+      },
+      {
+        "name": "Sneakers",
+        "price": "₹500",
+        "image": "./imgs/flipkart/p1/shoe.png",
+        "link": "https://fktr.in/Jxj5P7W"
+      }
+    ]
+  },
+  {
+    "modelImage": "./imgs/flipkart/p2/model.png",
+    "products": [
+      {
+        "name": "Top",
+        "price": "₹309",
+        "image": "./imgs/flipkart/p2/top.png",
+        "link": "https://fktr.in/257QwK2"
+      },
+      {
+        "name": "Pant",
+        "price": "₹713",
+        "image": "./imgs/flipkart/p2/pant.png",
+        "link": "https://fktr.in/IuRHnT2"
+      }
+    ],
+    "accessories": [
+      {
+        "name": "Bow",
+        "price": "₹220",
+        "image": "./imgs/flipkart/p2/bow.png",
+        "link": "https://fktr.in/uWPL38j"
+      },
+      {
+        "name": "Bracelet",
+        "price": "₹99",
+        "image": "./imgs/flipkart/p2/bracelet.png",
+        "link": "https://fktr.in/2x2sm0a"
+      },
+      {
+        "name": "Shoe",
+        "price": "₹414",
+        "image": "./imgs/flipkart/p2/shoe.png",
+        "link": "https://fktr.in/6gsF48f"
+      }
+    ]
+  },
+  {
+    "modelImage": "./imgs/flipkart/p3/model.png",
+    "products": [
+      {
+        "name": "Dress",
+        "price": "₹425",
+        "image": "./imgs/flipkart/p3/dress.png",
+        "link": "https://fktr.in/384SmEs"
+      },
+      {
+        "name": "Slipper",
+        "price": "₹607",
+        "image": "./imgs/flipkart/p3/shoe.png",
+        "link": "https://fktr.in/htOR6xP"
+      }
+    ],
+    "accessories": [
+      {
+        "name": "Bracelet",
+        "price": "₹198",
+        "image": "./imgs/flipkart/p3/bracelet.png",
+        "link": "https://fktr.in/Ha8s8CJ"
+      },
+      {
+        "name": "Earring",
+        "price": "₹123",
+        "image": "./imgs/flipkart/p3/earring.png",
+        "link": "https://fktr.in/Nh0goR0"
+      }
+    ]
+  },
+  {
+    "modelImage": "./imgs/flipkart/p4/model.png",
+    "products": [
+      {
+        "name": "Kurtha",
+        "price": "₹301",
+        "image": "./imgs/flipkart/p4/top.png",
+        "link": "https://fktr.in/c1VeFf2"
+      },
+      {
+        "name": "Jeans Pant",
+        "price": "₹445",
+        "image": "./imgs/flipkart/p4/pant.png",
+        "link": "https://fktr.in/gtH9fk4"
+      }
+    ],
+    "accessories": [
+      {
+        "name": "Bag",
+        "price": "₹526",
+        "image": "./imgs/flipkart/p4/bag.png",
+        "link": "https://fktr.in/29eg42c"
+      },
+      {
+        "name": "Sandal",
+        "price": "₹423",
+        "image": "./imgs/flipkart/p4/sandal.png",
+        "link": "https://fktr.in/PtwCK4m"
+      },
+      {
+        "name": "Earring",
+        "price": "₹135",
+        "image": "./imgs/flipkart/p4/earring.png",
+        "link": "https://fktr.in/5PUtUV2"
+      }
+    ]
+  },
+  {
+    "modelImage": "./imgs/flipkart/p5/model.png",
+    "products": [
+      {
+        "name": "Kurta",
+        "price": "₹450",
+        "image": "./imgs/flipkart/p5/dress.png",
+        "link": "https://fktr.in/KKBMnJX"
+      },
+      {
+        "name": "Sandal",
+        "price": "₹414",
+        "image": "./imgs/flipkart/p5/sandal.png",
+        "link": "https://fktr.in/dh39PFl"
+      }
+    ],
+    "accessories": [
+      {
+        "name": "Earring",
+        "price": "₹150",
+        "image": "./imgs/flipkart/p5/earring.png",
+        "link": "https://fktr.in/wdPy8Cy"
+      },
+      {
+        "name": "Bracelet",
+        "price": "₹98",
+        "image": "./imgs/flipkart/p5/bracelet.png",
+        "link": "https://fktr.in/aaWts35"
+      },
+      {
+        "name": "Necklace",
+        "price": "₹231",
+        "image": "./imgs/flipkart/p5/necklace.png",
+        "link": "https://fktr.in/80vB95l"
+      }
+    ]
+  },
+  {
+    "modelImage": "./imgs/flipkart/p6/model.png",
+    "products": [
+      {
+        "name": "Dress",
+        "price": "₹701",
+        "image": "./imgs/flipkart/p6/dress.png",
+        "link": "https://fktr.in/8T3Uzar"
+      },
+      {
+        "name": "Shoe",
+        "price": "₹1254",
+        "image": "./imgs/flipkart/p6/shoe.png",
+        "link": "https://fktr.in/95X563k"
+      }
+    ],
+    "accessories": [
+      {
+        "name": "Hat",
+        "price": "₹200",
+        "image": "./imgs/flipkart/p6/hat.png",
+        "link": "https://fktr.in/Qv8M33a"
+      }
+    ]
+  },
+  {
+    "modelImage": "./imgs/flipkart/p7/model.png",
+    "products": [
+      {
+        "name": "Dress",
+        "price": "₹425",
+        "image": "./imgs/flipkart/p7/dress.png",
+        "link": "https://fktr.in/OobePID"
+      }
+    ],
+    "accessories": [
+      {
+        "name": "Earring",
+        "price": "₹251",
+        "image": "./imgs/flipkart/p7/earring.png",
+        "link": "https://fktr.in/Onr98p7"
+      },
+      {
+        "name": "Sandal",
+        "price": "₹432",
+        "image": "./imgs/flipkart/p7/sandal.png",
+        "link": "https://fktr.in/1l03JC4"
+      }
+    ]
+  },
+  {
+    "modelImage": "./imgs/flipkart/p8/model.png",
+    "products": [
+      {
+        "name": "Top",
+        "price": "₹223",
+        "image": "./imgs/flipkart/p8/top.png",
+        "link": "https://fktr.in/q7BBLlS"
+      },
+      {
+        "name": "Pant",
+        "price": "₹792",
+        "image": "./imgs/flipkart/p8/jeans.png",
+        "link": "https://fktr.in/uiD7ne8"
+      }
+    ],
+    "accessories": [
+      {
+        "name": "Watch",
+        "price": "₹152",
+        "image": "./imgs/flipkart/p8/watch.png",
+        "link": "https://fktr.in/b8miLtX"
+      },
+      {
+        "name": "Bag",
+        "price": "₹178",
+        "image": "./imgs/flipkart/p8/handbag.png",
+        "link": "https://fktr.in/bjAGnb7"
+      }
+    ]
+  },
+  {
+    "modelImage": "./imgs/flipkart/p9/model.png",
+    "products": [
+      {
+        "name": "Dress",
+        "price": "₹1672",
+        "image": "./imgs/flipkart/p9/top.png",
+        "link": "https://fktr.in/tIKVqHR"
+      },
+      {
+        "name": "Bracelet",
+        "price": "₹198",
+        "image": "./imgs/flipkart/p3/bracelet.png",
+        "link": "https://fktr.in/Ha8s8CJ"
+      }
+    ],
+    "accessories": [
+      {
+        "name": "Earring",
+        "price": "₹180",
+        "image": "./imgs/flipkart/p9/earring.png",
+        "link": "https://fktr.in/frQ4f9j"
+      },
+      {
+        "name": "Sandal",
+        "price": "₹305",
+        "image": "./imgs/flipkart/p9/sandal.png",
+        "link": "https://fktr.in/b1jFQmS"
+      }
+    ]
+  },
+  {
+    "modelImage": "./imgs/flipkart/p10/model.png",
+    "products": [
+      {
+        "name": "Dress",
+        "price": "₹1119",
+        "image": "./imgs/flipkart/p10/dress.png",
+        "link": "https://fktr.in/vvofvm3"
+      }
+    ],
+    "accessories": [
+      {
+        "name": "Sandal",
+        "price": "₹548",
+        "image": "./imgs/flipkart/p10/sandal.png",
+        "link": "https://fktr.in/Cwhh5W5"
+      }
+    ]
+  }
+]

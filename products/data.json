@@ -1,0 +1,355 @@
+[
+  {
+    "modelImage": "./imgs/p1/model.png",
+    "products": [
+      {
+        "name": "Pink Top",
+        "price": "₹231",
+        "image": "./imgs/p1/top.png",
+        "link": "https://www.meesho.com/af_invite/87275021:instagram_stories:5156578?p_id=942149925&ext_id=fkxjj9&utm_source=instagram_stories"
+      },
+      {
+        "name": "Wide Jeans",
+        "price": "₹313",
+        "image": "./imgs/p1/pant.png",
+        "link": "https://www.meesho.com/af_invite/87275021:instagram_stories:5156578?p_id=618819664&ext_id=a8fgb4&utm_source=instagram_stories"
+      },
+      {
+        "name": "Sneakers",
+        "price": "₹335",
+        "image": "./imgs/p1/footwear.png",
+        "link": "https://www.meesho.com/af_invite/87275021:instagram_stories:5156578?p_id=505128604&ext_id=8cqnq4&utm_source=instagram_stories"
+      }
+    ],
+    "accessories": [
+      {
+        "name": "Bag",
+        "price": "₹259",
+        "image": "./imgs/p1/bag.png",
+        "link": "https://www.meesho.com/af_invite/87275021:instagram_stories:5168978?p_id=510598106&ext_id=8fzw0q&utm_source=instagram_stories"
+      },
+      {
+        "name": "Neckpiece",
+        "price": "₹110",
+        "image": "./imgs/p1/neckpiece.png",
+        "link": "https://www.meesho.com/af_invite/87275021:instagram_stories:5168978?p_id=614439854&ext_id=a5tktq&utm_source=instagram_stories"
+      }
+    ]
+  },
+
+  {
+    "modelImage": "./imgs/p2/model.png",
+    "products": [
+      {
+        "name": "Short Kurti",
+        "price": "₹361",
+        "image": "./imgs/p2/top.png",
+        "link": "https://www.meesho.com/af_invite/87275021:instagram_stories:5182303?p_id=490602723&ext_id=843bhf&utm_source=instagram_stories"
+      },
+      {
+        "name": "Fancy Baggy Jeans",
+        "price": "₹700",
+        "image": "./imgs/p2/pant.png",
+        "link": "https://www.meesho.com/af_invite/87275021:instagram_stories:5182303?p_id=452408227&ext_id=7hcof7&utm_source=instagram_stories"
+      },
+      {
+        "name": "Rajastani Juti",
+        "price": "₹248",
+        "image": "./imgs/p2/footwear.png",
+        "link": "https://www.meesho.com/af_invite/87275021:instagram_stories:5182303?p_id=623945381&ext_id=abhbc5&utm_source=instagram_stories"
+      }
+    ],
+    "accessories": [
+      {
+        "name": "Rings",
+        "price": "₹152",
+        "image": "./imgs/p2/rings.png",
+        "link": "https://www.meesho.com/af_invite/87275021:instagram_stories:5182303?p_id=74216570&ext_id=186pve&utm_source=instagram_stories"
+      },
+      {
+        "name": "Bracelet",
+        "price": "₹171",
+        "image": "./imgs/p2/bangle.png",
+        "link": "https://www.meesho.com/af_invite/87275021:instagram_stories:5182303?p_id=495535671&ext_id=8711rr&utm_source=instagram_stories"
+      }
+    ]
+  },
+  {
+    "modelImage": "./imgs/p3/model.png",
+    "products": [
+      {
+        "name": "Brown Top",
+        "price": "₹229",
+        "image": "./imgs/p3/top.png",
+        "link": "https://www.meesho.com/af_invite/87275021:instagram_stories:5218364?p_id=621915421&ext_id=aa9t0d&utm_source=instagram_stories"
+      },
+      {
+        "name": "Beige Pant",
+        "price": "₹669",
+        "image": "./imgs/p3/pant.png",
+        "link": "https://www.meesho.com/af_invite/87275021:instagram_stories:5218364?p_id=952150560&ext_id=fqvw2o&utm_source=instagram_stories"
+      },
+      {
+        "name": "White Shoes",
+        "price": "₹484",
+        "image": "./imgs/p3/shoe.png",
+        "link": "https://www.meesho.com/af_invite/87275021:instagram_stories:5218364?p_id=707538370&ext_id=bp903m&utm_source=instagram_stories"
+      }
+    ],
+    "accessories": [
+      {
+        "name": "Hair Clip (set of 4)",
+        "price": "₹147",
+        "image": "./imgs/p3/clip.png",
+        "link": "https://www.meesho.com/af_invite/87275021:instagram_stories:5218364?p_id=440206913&ext_id=7a35tt&utm_source=instagram_stories"
+      },
+      {
+        "name": "Bag",
+        "price": "₹259",
+        "image": "./imgs/p1/bag.png",
+        "link": "https://www.meesho.com/af_invite/87275021:instagram_stories:5168978?p_id=510598106&ext_id=8fzw0q&utm_source=instagram_stories"
+      }
+    ]
+  },
+  {
+    "modelImage": "./imgs/p4/model.png",
+    "products": [
+      {
+        "name": "Blue Top",
+        "price": "₹228",
+        "image": "./imgs/p4/top.png",
+        "link": "https://www.meesho.com/af_invite/87275021:instagram_stories:5219822?p_id=899936116&ext_id=evsr5g&utm_source=instagram_stories"
+      },
+      {
+        "name": "White Pant",
+        "price": "₹247",
+        "image": "./imgs/p4/pant.png",
+        "link": "https://www.meesho.com/af_invite/87275021:instagram_stories:5219822?p_id=560667231&ext_id=99t1lr&utm_source=instagram_stories"
+      }
+    ],
+    "accessories": [
+      {
+        "name": "Earrings",
+        "price": "₹133",
+        "image": "./imgs/p4/earring.png",
+        "link": "https://www.meesho.com/af_invite/87275021:instagram_stories:5219822?p_id=411681393&ext_id=6t3re9&utm_source=instagram_stories"
+      },
+      {
+        "name": "Hairband",
+        "price": "₹182",
+        "image": "./imgs/p4/hairband.png",
+        "link": "https://www.meesho.com/af_invite/87275021:instagram_stories:5219822?p_id=973363229&ext_id=g3ijvh&utm_source=instagram_stories"
+      },
+      {
+        "name": "Neckpiece",
+        "price": "₹108",
+        "image": "./imgs/p4/neckpiece.png",
+        "link": "https://www.meesho.com/af_invite/87275021:instagram_stories:5219822?p_id=343833709&ext_id=5opjsd&utm_source=instagram_stories"
+      }
+    ]
+  },
+  {
+    "modelImage": "./imgs/p5/model.png",
+    "products": [
+      {
+        "name": "Top",
+        "price": "₹262",
+        "image": "./imgs/p5/top.png",
+        "link": "https://www.meesho.com/af_invite/87275021:instagram_stories:5226366?p_id=316874948&ext_id=58nq9w&utm_source=instagram_stories"
+      },
+      {
+        "name": "Pant",
+        "price": "₹278",
+        "image": "./imgs/p5/pant.png",
+        "link": "https://www.meesho.com/af_invite/87275021:instagram_stories:5226366?p_id=687379844&ext_id=bd8xok&utm_source=instagram_stories"
+      },
+      {
+        "name": "Slipper",
+        "price": "₹331",
+        "image": "./imgs/p5/shoe.png",
+        "link": "https://www.meesho.com/af_invite/87275021:instagram_stories:5226366?p_id=842207635&ext_id=dxffkj&utm_source=instagram_stories"
+      }
+    ],
+    "accessories": [
+      {
+        "name": "Earring",
+        "price": "₹164",
+        "image": "./imgs/p5/earring.png",
+        "link": "https://www.meesho.com/af_invite/87275021:instagram_stories:5226366?p_id=518532109&ext_id=8kpxxp&utm_source=instagram_stories"
+      }
+    ]
+  },
+  {
+    "modelImage": "./imgs/p6/model.png",
+    "products": [
+      {
+        "name": "One Piece Dress",
+        "price": "₹303",
+        "image": "./imgs/p6/top.png",
+        "link": "https://www.meesho.com/af_invite/87275021:instagram_stories:5227949?p_id=441958268&ext_id=7b4p6k&utm_source=instagram_stories"
+      },
+      {
+        "name": "High Heels",
+        "price": "₹269",
+        "image": "./imgs/p6/slippers.png",
+        "link": "https://www.meesho.com/af_invite/87275021:instagram_stories:5227949?p_id=576273911&ext_id=9j3jsn&utm_source=instagram_stories"
+      }
+    ],
+    "accessories": [
+      {
+        "name": "Hair Bow",
+        "price": "₹122",
+        "image": "./imgs/p6/bow.png",
+        "link": "https://www.meesho.com/af_invite/87275021:instagram_stories:5227949?p_id=652341785&ext_id=asdy55&utm_source=instagram_stories"
+      },
+      {
+        "name": "Earring",
+        "price": "₹121",
+        "image": "./imgs/p6/earring.png",
+        "link": "https://www.meesho.com/af_invite/87275021:instagram_stories:5227949?p_id=479599975&ext_id=7xjhpj&utm_source=instagram_stories"
+      }
+    ]
+  },
+  {
+    "modelImage": "./imgs/p7/model.png",
+    "products": [
+      {
+        "name": "Top",
+        "price": "₹559",
+        "image": "./imgs/p7/top.png",
+        "link": "https://www.meesho.com/af_invite/87275021:instagram_stories:5276389?p_id=630674424&ext_id=afhji0&utm_source=instagram_stories"
+      },
+      {
+        "name": "Sandal",
+        "price": "₹558",
+        "image": "./imgs/p7/sandal.png",
+        "link": "https://www.meesho.com/af_invite/87275021:instagram_stories:5276389?p_id=984634295&ext_id=ga84on&utm_source=instagram_stories"
+      }
+    ],
+    "accessories": [
+      {
+        "name": "Earring",
+        "price": "₹184",
+        "image": "./imgs/p7/earring.png",
+        "link": "https://www.meesho.com/af_invite/87275021:instagram_stories:5276389?p_id=670989151&ext_id=b3hmjj&utm_source=instagram_stories"
+      },
+      {
+        "name": "Bracelet",
+        "price": "₹220",
+        "image": "./imgs/p7/bracelet.png",
+        "link": "https://www.meesho.com/af_invite/87275021:instagram_stories:5276389?p_id=885850078&ext_id=eneuam&utm_source=instagram_stories"
+      },
+      {
+        "name": "Neckpiece",
+        "price": "₹165",
+        "image": "./imgs/p7/neckpiece.png",
+        "link": "https://www.meesho.com/af_invite/87275021:instagram_stories:5276389?p_id=740237766&ext_id=c8pv46&utm_source=instagram_stories"
+      }
+    ]
+  },
+  {
+    "modelImage": "./imgs/p8/model.png",
+    "products": [
+      {
+        "name": "Top",
+        "price": "₹208",
+        "image": "./imgs/p8/top.png",
+        "link": "https://www.meesho.com/af_invite/87275021:instagram_stories:5278701?p_id=400827434&ext_id=6mn4fe&utm_source=instagram_stories"
+      },
+      {
+        "name": "Skirt",
+        "price": "₹184",
+        "image": "./imgs/p8/skirt.png",
+        "link": "https://www.meesho.com/af_invite/87275021:instagram_stories:5278701?p_id=390130476&ext_id=6g9ulo&utm_source=instagram_stories"
+      },
+      {
+        "name": "Tights",
+        "price": "₹229",
+        "image": "./imgs/p8/tights.png",
+        "link": "https://www.meesho.com/af_invite/87275021:instagram_stories:5278701?p_id=419426242&ext_id=6xprcy&utm_source=instagram_stories"
+      },
+      {
+        "name": "Shoe",
+        "price": "₹433",
+        "image": "./imgs/p8/shoe.png",
+        "link": "https://www.meesho.com/af_invite/87275021:instagram_stories:5278888?p_id=532424397&ext_id=8szpal&utm_source=instagram_stories"
+      }
+    ],
+    "accessories": [
+      {
+        "name": "Scarf",
+        "price": "₹183",
+        "image": "./imgs/p8/scarf.png",
+        "link": "https://www.meesho.com/af_invite/87275021:instagram_stories:5278701?p_id=334056526&ext_id=5ivzny&utm_source=instagram_stories"
+      },
+      {
+        "name": "Cap",
+        "price": "₹417",
+        "image": "./imgs/p8/cap.png",
+        "link": "https://www.meesho.com/af_invite/87275021:instagram_stories:5278701?p_id=580135223&ext_id=9leb7b&utm_source=instagram_stories"
+      }
+    ]
+  },
+  {
+    "modelImage": "./imgs/p9/model.png",
+    "products": [
+      {
+        "name": "Dress",
+        "price": "₹689",
+        "image": "./imgs/p9/top.png",
+        "link": "https://www.meesho.com/af_invite/87275021:instagram_stories:5280359?p_id=808128113&ext_id=dd4zn5&utm_source=instagram_stories"
+      },
+      {
+        "name": "Bag",
+        "price": "₹163",
+        "image": "./imgs/p9/bag.png",
+        "link": "https://www.meesho.com/af_invite/87275021:instagram_stories:5280359?p_id=717018116&ext_id=buw6pw&utm_source=instagram_stories"
+      },
+      {
+        "name": "Sandal",
+        "price": "₹260",
+        "image": "./imgs/p9/sandal.png",
+        "link": "https://www.meesho.com/af_invite/87275021:instagram_stories:5280359?p_id=500517272&ext_id=89ztlk&utm_source=instagram_stories"
+      }
+    ],
+    "accessories": [
+      {
+        "name": "Earring",
+        "price": "₹178",
+        "image": "./imgs/p9/earring.png",
+        "link": "https://www.meesho.com/af_invite/87275021:instagram_stories:5280359?p_id=232562227&ext_id=3ugm5v&utm_source=instagram_stories"
+      }
+    ]
+  },
+  {
+    "modelImage": "./imgs/p10/model.png",
+    "products": [
+      {
+        "name": "Top",
+        "price": "₹272",
+        "image": "./imgs/p10/top.png",
+        "link": "https://www.meesho.com/af_invite/87275021:instagram_stories:5280926?p_id=907888930&ext_id=f0j7ky&utm_source=instagram_stories"
+      },
+      {
+        "name": "Skirt",
+        "price": "₹289",
+        "image": "./imgs/p10/skirt.png",
+        "link": "https://www.meesho.com/af_invite/87275021:instagram_stories:5280926?p_id=379337108&ext_id=69uidw&utm_source=instagram_stories"
+      },
+      {
+        "name": "Sandals",
+        "price": "₹237",
+        "image": "./imgs/p10/slippers.png",
+        "link": "https://www.meesho.com/af_invite/87275021:instagram_stories:5281371?p_id=628645947&ext_id=aea2bf&utm_source=instagram_stories"
+      }
+    ],
+    "accessories": [
+      {
+        "name": "Hair Band",
+        "price": "₹230",
+        "image": "./imgs/p10/hairband.png",
+        "link": "https://www.meesho.com/af_invite/87275021:instagram_stories:5280926?p_id=912551358&ext_id=f3b54u&utm_source=instagram_stories"
+      }
+    ]
+  }
+]
