@@ -102,15 +102,7 @@ function createLookBox(look) {
         </a>
     `).join("");
 
-    const accessoryCards = look.accessories.map(accessory => `
-        <a class="accessory-card" href="${accessory.link}" target="_blank">
-            <img src="${accessory.image}" alt="${accessory.name}">
-            <div>
-                <h5>${accessory.name}</h5>
-                <p>${accessory.price}</p>
-            </div>
-        </a>
-    `).join("");
+    // accessories removed by user request
 
     const modelImage = look.modelImage || (look.products.length ? look.products[0].image : "");
     const comboPrice = getComboPrice(look);
@@ -128,14 +120,6 @@ function createLookBox(look) {
                 ${productCards}
             </div>
 
-        </div>
-
-        <div class="accessories-section">
-            <h2>Also pair with</h2>
-
-            <div class="accessories-grid">
-                ${accessoryCards}
-            </div>
         </div>
     `;
 

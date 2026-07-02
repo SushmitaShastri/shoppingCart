@@ -19,9 +19,7 @@
         "price": "₹335",
         "image": "./imgs/p1/footwear.png",
         "link": "https://www.meesho.com/af_invite/87275021:instagram_stories:5156578?p_id=505128604&ext_id=8cqnq4&utm_source=instagram_stories"
-      }
-    ],
-    "accessories": [
+      },
       {
         "name": "Bag",
         "price": "₹259",
@@ -36,7 +34,6 @@
       }
     ]
   },
-
   {
     "modelImage": "./imgs/p2/model.png",
     "products": [
@@ -57,9 +54,7 @@
         "price": "₹248",
         "image": "./imgs/p2/footwear.png",
         "link": "https://www.meesho.com/af_invite/87275021:instagram_stories:5182303?p_id=623945381&ext_id=abhbc5&utm_source=instagram_stories"
-      }
-    ],
-    "accessories": [
+      },
       {
         "name": "Rings",
         "price": "₹152",
@@ -94,9 +89,7 @@
         "price": "₹484",
         "image": "./imgs/p3/shoe.png",
         "link": "https://www.meesho.com/af_invite/87275021:instagram_stories:5218364?p_id=707538370&ext_id=bp903m&utm_source=instagram_stories"
-      }
-    ],
-    "accessories": [
+      },
       {
         "name": "Hair Clip (set of 4)",
         "price": "₹147",
@@ -125,9 +118,7 @@
         "price": "₹247",
         "image": "./imgs/p4/pant.png",
         "link": "https://www.meesho.com/af_invite/87275021:instagram_stories:5219822?p_id=560667231&ext_id=99t1lr&utm_source=instagram_stories"
-      }
-    ],
-    "accessories": [
+      },
       {
         "name": "Earrings",
         "price": "₹133",
@@ -168,9 +159,7 @@
         "price": "₹331",
         "image": "./imgs/p5/shoe.png",
         "link": "https://www.meesho.com/af_invite/87275021:instagram_stories:5226366?p_id=842207635&ext_id=dxffkj&utm_source=instagram_stories"
-      }
-    ],
-    "accessories": [
+      },
       {
         "name": "Earring",
         "price": "₹164",
@@ -193,9 +182,7 @@
         "price": "₹269",
         "image": "./imgs/p6/slippers.png",
         "link": "https://www.meesho.com/af_invite/87275021:instagram_stories:5227949?p_id=576273911&ext_id=9j3jsn&utm_source=instagram_stories"
-      }
-    ],
-    "accessories": [
+      },
       {
         "name": "Hair Bow",
         "price": "₹122",
@@ -224,9 +211,7 @@
         "price": "₹558",
         "image": "./imgs/p7/sandal.png",
         "link": "https://www.meesho.com/af_invite/87275021:instagram_stories:5276389?p_id=984634295&ext_id=ga84on&utm_source=instagram_stories"
-      }
-    ],
-    "accessories": [
+      },
       {
         "name": "Earring",
         "price": "₹184",
@@ -273,9 +258,7 @@
         "price": "₹433",
         "image": "./imgs/p8/shoe.png",
         "link": "https://www.meesho.com/af_invite/87275021:instagram_stories:5278888?p_id=532424397&ext_id=8szpal&utm_source=instagram_stories"
-      }
-    ],
-    "accessories": [
+      },
       {
         "name": "Scarf",
         "price": "₹183",
@@ -310,9 +293,7 @@
         "price": "₹260",
         "image": "./imgs/p9/sandal.png",
         "link": "https://www.meesho.com/af_invite/87275021:instagram_stories:5280359?p_id=500517272&ext_id=89ztlk&utm_source=instagram_stories"
-      }
-    ],
-    "accessories": [
+      },
       {
         "name": "Earring",
         "price": "₹178",
@@ -341,9 +322,7 @@
         "price": "₹237",
         "image": "./imgs/p10/slippers.png",
         "link": "https://www.meesho.com/af_invite/87275021:instagram_stories:5281371?p_id=628645947&ext_id=aea2bf&utm_source=instagram_stories"
-      }
-    ],
-    "accessories": [
+      },
       {
         "name": "Hair Band",
         "price": "₹230",
