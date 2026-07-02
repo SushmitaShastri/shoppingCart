@@ -128,7 +128,6 @@ h1 {
 
 .model-box img {
     width: auto;
-    max-width: 90%;
     max-height: 90%;
     object-fit: contain;
 }
@@ -151,8 +150,8 @@ h1 {
 }
 
 .product-card img {
-    width: 100px;
-    height: 100px;
+    width: 150px;
+    height: 160px;
     object-fit: contain;
     flex-shrink: 0;
 }
@@ -241,8 +240,8 @@ h1 {
     }
 
     .product-card img {
-        width: 100px !important;
-        height: 100px !important;
+        width: 150px !important;
+        height: 160px !important;
     }
 
     .product-card h5 {
