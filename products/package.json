@@ -1,0 +1,13 @@
+{
+  "name": "myntra-scraper",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "scrape": "node myntra-scraper.js"
+  },
+  "dependencies": {
+    "cheerio": "^1.2.0",
+    "playwright": "^1.48.0"
+  }
+}

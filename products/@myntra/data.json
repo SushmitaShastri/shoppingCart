@@ -1,0 +1,280 @@
+[
+  {
+    "modelImage": "./imgs/myntra/p1/model.png",
+    "products": [
+      {
+        "name": "Top",
+        "price": "439",
+        "image": "./imgs/myntra/p1/prod1.png",
+        "link": "https://myntr.it/MB3LpJQ"
+      },
+      {
+        "name": "Jeans",
+        "price": "937",
+        "image": "./imgs/myntra/p1/prod2.png",
+        "link": "https://myntr.it/z5plCP5"
+      },
+      {
+        "name": "Earrings",
+        "price": "431",
+        "image": "./imgs/myntra/p1/prod3.png",
+        "link": "https://myntr.it/pRfpaxW"
+      },
+      {
+        "name": "Bracelet",
+        "price": "288",
+        "image": "./imgs/myntra/p1/prod4.png",
+        "link": "https://myntr.it/gssIL9O"
+      },
+      {
+        "name": "Sandals",
+        "price": "587",
+        "image": "./imgs/myntra/p1/prod5.png",
+        "link": "https://myntr.it/SbhdWE6"
+      }
+    ]
+  },
+  {
+    "modelImage": "./imgs/myntra/p2/model.png",
+    "products": [
+      {
+        "name": "Midi Dress",
+        "price": "3611",
+        "image": "./imgs/myntra/p2/prod1.png",
+        "link": "https://myntr.it/LjfN2aK"
+      },
+      {
+        "name": "Stud Earrings",
+        "price": "481",
+        "image": "./imgs/myntra/p2/prod3.png",
+        "link": "https://myntr.it/A85g9xX"
+      },
+      {
+        "name": "Toe Block Heel",
+        "price": "1114",
+        "image": "./imgs/myntra/p2/prod4.png",
+        "link": "https://myntr.it/ooc5sF2"
+      },
+      {
+        "name": "Bracelets",
+        "price": "273",
+        "image": "./imgs/myntra/p2/prod2.png",
+        "link": "https://myntr.it/uvPNip2"
+      }
+    ]
+  },
+  {
+    "modelImage": "./imgs/myntra/p3/model.png",
+    "products": [
+      {
+        "name": "Puff Dress",
+        "price": "2534",
+        "image": "./imgs/myntra/p3/prod1.png",
+        "link": "https://myntr.it/uWf880d"
+      },
+      {
+        "name": "Stiletto Sandals",
+        "price": "684",
+        "image": "./imgs/myntra/p3/prod2.png",
+        "link": "https://myntr.it/4dhio3n"
+      },
+      {
+        "name": "Drop Earrings",
+        "price": "200",
+        "image": "./imgs/myntra/p3/prod4.png",
+        "link": "https://myntr.it/tGJ6g9o"
+      },
+      {
+        "name": "Gold Bracelet",
+        "price": "371",
+        "image": "./imgs/myntra/p3/prod3.png",
+        "link": "https://myntr.it/Nn9K1bX"
+      }
+    ]
+  },
+  {
+    "modelImage": "./imgs/myntra/p4/model.png",
+    "products": [
+      {
+        "name": "Floral Maxi Dress",
+        "price": "899",
+        "image": "./imgs/myntra/p4/prod1.png",
+        "link": "https://myntr.it/c8jw7Yk"
+      },
+      {
+        "name": "Block Sandals",
+        "price": "1598",
+        "image": "./imgs/myntra/p4/prod2.png",
+        "link": "https://myntr.it/6ojsp3J"
+      },
+      {
+        "name": "Drop Earrings",
+        "price": "299",
+        "image": "./imgs/myntra/p4/prod3.png",
+        "link": "https://myntr.it/G4390HY"
+      }
+    ]
+  },
+  {
+    "modelImage": "./imgs/myntra/p5/model.png",
+    "products": [
+      {
+        "name": "Formal Shirt",
+        "price": "545",
+        "image": "./imgs/myntra/p5/prod1.png",
+        "link": "https://myntr.it/i4ys9be"
+      },
+      {
+        "name": "Pleated Trousers",
+        "price": "932",
+        "image": "./imgs/myntra/p5/prod2.png",
+        "link": "https://myntr.it/rMGiZO3"
+      },
+      {
+        "name": "Hoop Earrings",
+        "price": "220",
+        "image": "./imgs/myntra/p5/prod3.png",
+        "link": "https://myntr.it/wZsihzx"
+      },
+      {
+        "name": "Block Heels",
+        "price": "811",
+        "image": "./imgs/myntra/p5/prod4.png",
+        "link": "https://myntr.it/463B9sy"
+      },
+      {
+        "name": "Shopper Tote",
+        "price": "1399",
+        "image": "./imgs/myntra/p5/prod5.png",
+        "link": "https://myntr.it/22dxien"
+      }
+    ]
+  },
+  {
+    "modelImage": "./imgs/myntra/p6/model.png",
+    "products": [
+      {
+        "name": "Corset Maxi Dress",
+        "price": "1553",
+        "image": "./imgs/myntra/p6/prod1.png",
+        "link": "https://myntr.it/7L3wz9C"
+      },
+      {
+        "name": "Printed Block Heels",
+        "price": "756",
+        "image": "./imgs/myntra/p6/prod2.png",
+        "link": "https://myntr.it/QhUcMff"
+      },
+      {
+        "name": "Floral Drop Earrings",
+        "price": "339",
+        "image": "./imgs/myntra/p6/prod3.png",
+        "link": "https://myntr.it/9Wp7vnK"
+      }
+    ]
+  },
+  {
+    "modelImage": "./imgs/myntra/p7/model.png",
+    "products": [
+      {
+        "name": "Floral Co-ord Set",
+        "price": "",
+        "image": "./imgs/myntra/p7/prod1.png",
+        "link": "https://myntr.it/tEiSMoQ"
+      },
+      {
+        "name": "Heeled Mules",
+        "price": "2490",
+        "image": "./imgs/myntra/p7/prod2.png",
+        "link": "https://myntr.it/lox5hxu"
+      },
+      {
+        "name": "Drop Earrings",
+        "price": "",
+        "image": "./imgs/myntra/p7/prod3.png",
+        "link": "https://myntr.it/7pdvVB8"
+      }
+    ]
+  },
+  {
+    "modelImage": "./imgs/myntra/p8/model.png",
+    "products": [
+      {
+        "name": "Printed Co-ord Set",
+        "price": "2098",
+        "image": "./imgs/myntra/p8/prod1.png",
+        "link": "https://myntr.it/LuLqqxs"
+      },
+      {
+        "name": "Lightweight Sliders",
+        "price": "430",
+        "image": "./imgs/myntra/p8/prod2.png",
+        "link": "https://myntr.it/BXiut6p"
+      },
+      {
+        "name": "Printed Bucket Hat",
+        "price": "",
+        "image": "./imgs/myntra/p8/prod3.png",
+        "link": "https://myntr.it/Yw1VQQn"
+      }
+    ]
+  },
+  {
+    "modelImage": "./imgs/myntra/p9/model.png",
+    "products": [
+      {
+        "name": "Floral A-Line Dress",
+        "price": "1590",
+        "image": "./imgs/myntra/p9/prod1.png",
+        "link": "https://myntr.it/2eUrk3r"
+      },
+      {
+        "name": "Hoop Earrings",
+        "price": "305",
+        "image": "./imgs/myntra/p9/prod2.png",
+        "link": "https://myntr.it/2Ccajx2"
+      },
+      {
+        "name": "Charm Bracelet",
+        "price": "",
+        "image": "./imgs/myntra/p9/prod3.png",
+        "link": "https://myntr.it/VB0qLFN"
+      },
+      {
+        "name": "Embellished Heels",
+        "price": "1599",
+        "image": "./imgs/myntra/p9/prod4.png",
+        "link": "https://myntr.it/nIE8JGs"
+      }
+    ]
+  },
+  {
+    "modelImage": "./imgs/myntra/p10/model.png",
+    "products": [
+      {
+        "name": "Floral Co-ord Set",
+        "price": "781",
+        "image": "./imgs/myntra/p10/prod1.png",
+        "link": "https://myntr.it/68baF90"
+      },
+      {
+        "name": "Circular Stud Earrings",
+        "price": "276",
+        "image": "./imgs/myntra/p10/prod2.png",
+        "link": "https://myntr.it/Ydzpea2"
+      },
+      {
+        "name": "Embellished Peep-Toes",
+        "price": "1022",
+        "image": "./imgs/myntra/p10/prod3.png",
+        "link": "https://myntr.it/pe6Pu0g"
+      },
+      {
+        "name": "Wraparound Bracelet",
+        "price": "450",
+        "image": "./imgs/myntra/p10/prod4.png",
+        "link": "https://myntr.it/XXczv30"
+      }
+    ]
+  }
+]

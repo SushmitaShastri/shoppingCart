@@ -1,10 +1,12 @@
 let currentView = "all";
+let myntraLooks = [];
 let meeshoLooks = [];
 let flipkartLooks = [];
 
 /* ---------- PAGE INIT ---------- */
 async function initPage() {
     await Promise.all([
+        loadMyntraData(),
         loadMeeshoData(),
         loadFlipkartData()
     ]);
@@ -17,6 +19,17 @@ async function initPage() {
 window.initPage = initPage;
 
 /* ---------- LOAD DATA ---------- */
+async function loadMyntraData() {
+    try {
+        const response = await fetch("@myntra/data.json");
+        if (!response.ok) throw new Error("Myntra JSON not found");
+        myntraLooks = await response.json();
+    } catch (e) {
+        console.error("Failed to load Myntra products:", e);
+        myntraLooks = [];
+    }
+}
+
 async function loadMeeshoData() {
     try {
         const response = await fetch("data.json");
@@ -71,12 +84,16 @@ function renderView(view) {
     const pageGrid = document.getElementById("page-grid");
     pageGrid.innerHTML = "";
 
-    if (view === "all" || view === "flipkart") {
-        renderSection("FLIPKART Products", flipkartLooks);
+    if (view === "all" || view === "myntra") {
+        renderSection("MYNTRA Products", myntraLooks);
     }
 
     if (view === "all" || view === "meesho") {
         renderSection("MEESHO Products", meeshoLooks);
+    }
+
+    if (view === "all" || view === "flipkart") {
+        renderSection("FLIPKART Products", flipkartLooks);
     }
 }
 
@@ -123,19 +140,25 @@ function createLookBox(look) {
 
     const productCards = (look.products || [])
         .map(product => `
-            <a class="product-card" href="${product.link}" target="_blank">
-                <img src="${product.image}" alt="${product.name}">
+            <a class="product-card" href="${product.link}" target="_blank" rel="sponsored noopener noreferrer">
+                <img src="${product.image}" alt="${product.name} product image">
                 <div>
-                    <h5>${product.name}</h5>
-                    <p>${product.price}</p>
+                    <h3>${product.name}</h3>
                 </div>
             </a>
         `)
         .join("");
 
+    const productNames = (look.products || [])
+        .map(product => product.name)
+        .filter(Boolean)
+        .join(", ");
     const modelImage =
         look.modelImage ||
         (look.products?.length ? look.products[0].image : "");
+    const modelAlt = productNames
+        ? `Model wearing an outfit with ${productNames}`
+        : "Model wearing an outfit";
 
     const comboPrice = getComboPrice(look);
 
@@ -144,7 +167,7 @@ function createLookBox(look) {
 
         <div class="top-section">
             <div class="model-box">
-                <img src="${modelImage}" alt="Model">
+                <img src="${modelImage}" alt="${modelAlt}">
             </div>
 
             <div class="outfit-section">

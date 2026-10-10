@@ -79,12 +79,23 @@ h1 {
 /* PAGE GRID */
 .page-grid {
     display: grid;
-    grid-template-columns: repeat(2, 1fr);
+    grid-template-columns: repeat(2, minmax(0, 1fr));
     gap: 30px;
 }
 
 .section-header {
     grid-column: 1 / -1;
+}
+
+.site-disclaimer {
+    max-width: 900px;
+    margin: 32px auto 0;
+    padding: 14px 0 4px;
+    border-top: 1px solid rgba(91, 73, 117, 0.24);
+    color: #555;
+    font-size: 13px;
+    line-height: 1.5;
+    text-align: center;
 }
 
 /* LOOK BOX */
@@ -156,9 +167,9 @@ h1 {
     flex-shrink: 0;
 }
 
-.product-card h5 {
+.product-card h3 {
     font-size: 24px;
-    margin-bottom: 4px;
+    margin: 0;
 }
 
 .product-card p {
@@ -244,7 +255,7 @@ h1 {
         height: 160px !important;
     }
 
-    .product-card h5 {
+    .product-card h3 {
         font-size: 18px;
     }
 
