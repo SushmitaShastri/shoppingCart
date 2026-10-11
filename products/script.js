@@ -2,6 +2,7 @@ let currentView = "all";
 let myntraLooks = [];
 let meeshoLooks = [];
 let flipkartLooks = [];
+let modelBoxCounter = 0;
 
 /* ---------- PAGE INIT ---------- */
 async function initPage() {
@@ -130,13 +131,14 @@ function getComboPrice(look) {
 
     const rounded = Math.ceil(total / 50) * 50;
 
-    return `All these under just <span class="combo-amount">${rounded}</span> rs`;
+    return `This combo is just for <span class="combo-amount">${rounded}</span> rs`;
 }
 
 /* ---------- LOOK BOX ---------- */
 function createLookBox(look) {
     const lookBox = document.createElement("div");
     lookBox.className = "look-box";
+    const modelBoxId = `model-box-${++modelBoxCounter}`;
 
     const productCards = (look.products || [])
         .map(product => `
@@ -163,10 +165,14 @@ function createLookBox(look) {
     const comboPrice = getComboPrice(look);
 
     lookBox.innerHTML = `
+        <button class="overall-look-toggle" type="button" aria-expanded="false" aria-controls="${modelBoxId}">
+            Show overall look
+        </button>
+
         <div class="combo-line">${comboPrice}</div>
 
         <div class="top-section">
-            <div class="model-box">
+            <div class="model-box" id="${modelBoxId}">
                 <img src="${modelImage}" alt="${modelAlt}">
             </div>
 
@@ -175,6 +181,14 @@ function createLookBox(look) {
             </div>
         </div>
     `;
+
+    const toggle = lookBox.querySelector(".overall-look-toggle");
+    toggle.addEventListener("click", () => {
+        const isExpanded = toggle.getAttribute("aria-expanded") === "true";
+        toggle.setAttribute("aria-expanded", String(!isExpanded));
+        lookBox.classList.toggle("show-overall-look", !isExpanded);
+        toggle.textContent = isExpanded ? "Show overall look" : "Hide overall look";
+    });
 
     return lookBox;
 }
